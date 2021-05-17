@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my Github. Feel free to get in touch
 
 <!--
 **randyelorm/randyelorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
